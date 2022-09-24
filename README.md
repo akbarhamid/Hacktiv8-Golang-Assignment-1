@@ -18,3 +18,7 @@ Contohnya, ketika kalian menjalankan perintah go run biodata.go 1 maka data yang
 ## Pengumpulan
 
 Compress folder kode kalian menjadi file .zip dan upload kepada Google Classroom.
+
+## Screenshot Hasil
+
+![ss](https://user-images.githubusercontent.com/72149133/192119833-0ec0ea34-bf1f-483f-84db-8b6113ccd5d8.png)
